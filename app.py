@@ -20,7 +20,7 @@ st.markdown(
 )
 
 # Title 
-st.title("⛓Datasweeper Sterling integrator by Ab_Ahad")
+st.title("⛓Datasweeper Sterling integrator by Abdul_Wahab")
 st.write ("Transform your file between CVS and Excel formats with build-in data cleaning and visualization Creating the project for Quarter 3")
 
 # file uploader 
